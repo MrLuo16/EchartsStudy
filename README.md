@@ -1,2 +1,2 @@
 # EchartsStudy
-A green-hand for Echarts, save for review
+A green-hand to Echarts, save for review
